@@ -1,0 +1,6 @@
+{
+  "name": "Sound Effects Studio",
+  "description": "កម្មវិធីគ្រប់គ្រង និងបង្កើតសំឡេង Effect ដំណើរការដោយមិនបាច់ប្រើអ៊ីនធឺណិត (Offline Sound Effects Manager & Creator)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
